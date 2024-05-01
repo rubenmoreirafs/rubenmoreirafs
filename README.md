@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there I'm Rúben Moreira 👋
+### A Software Developer && Assistant Programming Teacher at Code For All
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rubenmoreirafs/rubenmoreirafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
