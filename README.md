@@ -6,9 +6,9 @@ About me
 
     📈 Built a backend REST API with Java and a mini game for a jam in C#, many more projects to come!
 
-    ❤️ Currently my strongest language is Java, but I intend to follow the road of Typescript and React
+    ❤️ I love coding and specially love games! I try to make games in my spare time! Check [CloseWindowsGame(https://easylifefs.itch.io/close-windows-game)]
 
-    💬 Ask me about anything here
+    💬 Currently my strongest language is Java, but I'll most likely master Javascript (Typescript and React).
 
 javascript typescript react graphql nodejs
 
