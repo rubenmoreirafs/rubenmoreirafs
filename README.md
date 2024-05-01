@@ -1,14 +1,14 @@
 ### Hi there I'm Rúben Moreira 👋
 
-About me
+### About me
 
-    💼 A Software Developer && Assistant Programming Teacher at Code For All
+💼 A Software Developer && Assistant Programming Teacher at Code For All
 
-    📈 Built a backend REST API with Java and a mini game for a jam in C#, many more projects to come!
+📈 Built a backend REST API with Java and a mini game for a jam in C#, many more projects to come!
 
-    ❤️ I love coding and specially love games! I try to make games in my spare time! Check [CloseWindowsGame](https://easylifefs.itch.io/close-windows-game)
+❤️ I love coding and specially love games! I try to make games in my spare time! Check [CloseWindowsGame](https://easylifefs.itch.io/close-windows-game)
 
-    💬 Currently my strongest language is Java, but I'll most likely master Javascript (Typescript and React).
+💬 Currently my strongest language is Java, but I'll most likely master Javascript (Typescript and React).
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmoreirafs&layout=donut)](https://github.com/rubenmoreirafs/github-readme-stats)
