@@ -11,6 +11,8 @@ About me
     💬 Currently my strongest language is Java, but I'll most likely master Javascript (Typescript and React).
 
 javascript typescript react graphql nodejs
+[CloseWindowsGame(https://easylifefs.itch.io/close-windows-game)]
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmoreirafs&layout=donut)](https://github.com/rubenmoreirafs/github-readme-stats)
 <!--
