@@ -1,5 +1,16 @@
 ### Hi there I'm Rúben Moreira 👋
-### A Software Developer && Assistant Programming Teacher at Code For All
+
+About me
+
+    💼 A Software Developer && Assistant Programming Teacher at Code For All
+
+    📈 Built a backend REST API with Java and a mini game for a jam in C#, many more projects to come!
+
+    ❤️ Currently my strongest language is Java, but I intend to follow the road of Typescript and React
+
+    💬 Ask me about anything here
+
+javascript typescript react graphql nodejs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmoreirafs&layout=donut)](https://github.com/rubenmoreirafs/github-readme-stats)
 <!--
