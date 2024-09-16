@@ -2,7 +2,7 @@
 
 ### About me
 
-💼 A Software Developer && Assistant Programming Teacher at Code For All
+💼 Software Developer
 
 📈 Built a backend REST API with Java and a mini game for a jam in C#, many more projects to come!
 
